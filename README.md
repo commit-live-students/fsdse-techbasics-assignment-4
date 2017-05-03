@@ -4,7 +4,7 @@
 
 #### Installing 
 
-* Now you all ready have executable Anaconda bash script downloaded in previous assignment. Now we can run the script:
+* Now you all ready have executable Anaconda bash script downloaded in previous assignment. To install now we can run the script:
 ```
 bash Anaconda2-4.3.1-Linux-x86_64.sh
 ```
@@ -60,7 +60,7 @@ A backup will be made to: /home/username/.bashrc-anaconda2.bak
 ```
 export PATH="/home/username/anaconda2/bin"
 ```
-* This will add Anaconda path to .bashrc file. You can also do it by editing .bashrc file using `nano` command and add path.
+* This will add Anaconda path to `.bashrc` file. You can also do it by editing `.bashrc` file using `nano` command and add path.
 * In order to activate the installation, you should source the `~/.bashrc` file:
 ```
 source ~/.bashrc
