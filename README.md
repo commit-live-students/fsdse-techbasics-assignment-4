@@ -91,6 +91,9 @@ conda update conda
 conda update anaconda
 ```
 * Again when prompted to do so, type `y` to proceed.This will ensure that you are using the latest releases of conda and Anaconda.
+
+#### Test Installation
+
 * Let's quick check our installation of anaconda using python script. `NumPy` is the fundamental package for scientific computing with Python which comes with default installation of anaconda.
 * Create a new file named `test_anaconda.py` and insert below code:
 ```
