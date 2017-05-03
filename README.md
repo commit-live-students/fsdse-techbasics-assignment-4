@@ -2,7 +2,7 @@
 
 ### Install Anaconda
 
-#### Install
+#### Installing 
 
 * Now you all ready have executable Anaconda bash script downloaded in previous assignment. Now we can run the script:
 ```
@@ -80,7 +80,7 @@ alabaster                 0.7.9                    py35_0
 ...
 ```
 
-#### Updating Anaconda
+#### Updating
 
 * You should regularly ensure that Anaconda is up-to-date so that you are working with all the latest package releases.To do this, you should first update the `conda` utility:
 ```
@@ -115,7 +115,7 @@ output
 [1, 1, 2, 3, 6, 8, 10]
 ```
 
-#### Uninstalling Anaconda
+#### Uninstalling
 
 * If you are no longer using Anaconda and find that you need to uninstall it, you should start with the anaconda-clean module which will remove configuration files when you uninstall Anaconda.
 ```
