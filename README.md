@@ -6,7 +6,7 @@
 
 * Now you all ready have executable Anaconda bash script downloaded in [previous assignment](https://github.com/commit-live-students/fsdse-techbasics-assignment-2/). To install now we can run the script:
 ```
-bash Anaconda2-4.3.1-Linux-x86_64.sh
+./Anaconda2-4.3.1-Linux-x86_64.sh
 ```
 * You’ll receive the following output:
 ```
