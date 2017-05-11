@@ -1,6 +1,6 @@
 ![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
-# Tech Basics - Assignment 3
+# Tech Basics - Assignment 4
 
 ### Install Anaconda
 
