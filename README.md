@@ -6,7 +6,7 @@
 
 #### Installing 
 
-* Now you all ready have executable Anaconda bash script downloaded in [previous assignment](https://github.com/commit-live-students/fsdse-techbasics-assignment-2/). To install now we can run the script:
+* Now you already have an executable Anaconda bash script downloaded in [previous assignment](https://github.com/commit-live-students/fsdse-techbasics-assignment-2/). To install now we can run the script:
 ```
 ./Anaconda2-4.3.1-Linux-x86_64.sh
 ```
@@ -58,7 +58,7 @@ A backup will be made to: /home/username/.bashrc-anaconda2.bak
 ...
 
 ```
-* You can also say `no` and can manually add Anaconda path to `.bashrc` file from command line. Open your terminal and type below command
+* You can also say `No` and can manually add Anaconda path to `.bashrc` file from command line. Open your terminal and type below command
 ```
 export PATH="/home/username/anaconda2/bin"
 ```
