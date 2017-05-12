@@ -96,7 +96,7 @@ conda update anaconda
 
 #### Test Installation
 
-* Let's quick check our installation of anaconda using python script. `NumPy` is the fundamental package for scientific computing with Python which comes with default installation of anaconda.
+* Let's quickly check our installation of anaconda using python script. `NumPy` is the fundamental package for scientific computing with Python which comes with default installation of anaconda.
 * Create a new file named `test_anaconda.py` and insert below code:
 ```
 def quicksort(arr):
