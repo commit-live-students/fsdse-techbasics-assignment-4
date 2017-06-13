@@ -62,12 +62,12 @@ A backup will be made to: /home/username/.bashrc-anaconda2.bak
 ```
 export PATH=$PATH:"/home/username/anaconda2/bin"
 ```
-* This will add Anaconda path to `.bashrc` file. You can also do it by editing `.bashrc` file using `nano` command and add path.
+* This will add Anaconda path to `.bashrc` file. You can also do it by editing `.bashrc` file using `nano` command and add the path.
 * In order to activate the installation, you should source the `~/.bashrc` file:
 ```
 source ~/.bashrc
 ```
-* Once you have done, you can verify your install by making use of the `conda` command, for example with list:
+* Once you have done, you can verify your install by making use of the `conda` command, for example with the list:
 ```
 conda list
 ```
